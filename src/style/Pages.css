@@ -1,0 +1,11 @@
+#mov-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#search-cont {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+}

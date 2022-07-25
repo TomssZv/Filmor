@@ -1,0 +1,35 @@
+.search {
+    width: 40rem;
+}
+
+.inp {
+    width: 100%;
+    height: 2rem;
+    border-radius: 15px;
+    border: solid 1px black;
+}
+
+.card {
+    background-color: #b3b1b1;
+    width: 300px;
+    padding: .5rem;
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.images {
+
+}
+
+.title {
+    align-self: center;
+    justify-self: flex-start;
+    width: 100%;
+    border-bottom: solid black 2px;
+}
